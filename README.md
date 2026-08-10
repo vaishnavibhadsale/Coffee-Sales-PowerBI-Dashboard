@@ -49,5 +49,5 @@ The objective of this project is to transform coffee shop sales data into an int
 ## 📂 Project Files
 
 - `Coffee_Sales_Dashboard.pbix` – Power BI dashboard file
-- `Coffee_Sales_Dashboard.png` – Dashboard preview
+- `Coffee_Sales_Dashboard.JPG` – Dashboard preview
 - `README.md` – Project documentation
